@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array/>
+	<key>PayloadDisplayName</key>
+	<string>Apple TV代理文件</string>
+	<key>PayloadIdentifier</key>
+	<string>daisydeMacBook-Air.472D2965-49F7-4F62-9B06-6830AA1FF304</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4E7B552C-8357-4C86-A2D9-6BD3A1914F75</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
